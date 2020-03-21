@@ -32,3 +32,4 @@ Core 7:         +43.0°C  (high = +80.0°C, crit = +90.0°C)
 /dev/sdg: SEAGATE ST2000NX0463: 39°C
 /dev/sdh: SEAGATE ST2000NX0463: 38°C
 Sat Mar 21 13:43:53 EDT 2020
+
