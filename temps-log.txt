@@ -1,30 +1,32 @@
-Sat Mar 21 15:26:15 EDT 2020
+Sat Mar 21 15:39:34 EDT 2020
+----------------
 Filesystem                   Size  Used Avail Use% Mounted on
 /dev/mapper/ubuntu--vg-root  791G  391G  360G  53% /
 /dev/md0                     9.1T  5.6T  3.1T  65% /Data
+================
 coretemp-isa-0000
 Adapter: ISA adapter
 Physical id 0:  +47.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 0:         +45.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 1:         +47.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 2:         +41.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 3:         +44.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 3:         +43.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 4:         +45.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 5:         +43.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 6:         +44.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 7:         +43.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 7:         +44.0°C  (high = +80.0°C, crit = +90.0°C)
 
 coretemp-isa-0001
 Adapter: ISA adapter
-Physical id 1:  +46.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 0:         +46.0°C  (high = +80.0°C, crit = +90.0°C)
+Physical id 1:  +45.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 0:         +45.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 1:         +42.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 2:         +44.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 3:         +45.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 4:         +45.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 5:         +43.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 6:         +42.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 7:         +42.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 4:         +44.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 5:         +44.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 6:         +43.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 7:         +44.0°C  (high = +80.0°C, crit = +90.0°C)
 
 /dev/sda: SEAGATE ST91000640SS: 38°C
 /dev/sdb: SEAGATE ST2000NX0463: 39°C
@@ -33,5 +35,5 @@ Core 7:         +42.0°C  (high = +80.0°C, crit = +90.0°C)
 /dev/sde: SEAGATE ST2000NX0463: 40°C
 /dev/sdf: SEAGATE ST2000NX0463: 40°C
 /dev/sdg: SEAGATE ST2000NX0463: 39°C
-/dev/sdh: SEAGATE ST2000NX0463: 38°C
-Sat Mar 21 15:26:15 EDT 2020
+/dev/sdh: SEAGATE ST2000NX0463: 39°C
+Sat Mar 21 15:39:34 EDT 2020
