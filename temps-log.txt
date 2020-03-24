@@ -1,4 +1,4 @@
-Tue Mar 24 15:46:04 EDT 2020
+Tue Mar 24 19:46:09 EDT 2020
 ----------------
 Filesystem                   Size  Used Avail Use% Mounted on
 /dev/mapper/ubuntu--vg-root  791G  391G  360G  53% /
@@ -9,8 +9,8 @@ Adapter: ISA adapter
 Physical id 0:  +41.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 0:         +39.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 1:         +40.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 2:         +38.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 3:         +40.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 2:         +37.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 3:         +38.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 4:         +40.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 5:         +37.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 6:         +39.0°C  (high = +80.0°C, crit = +90.0°C)
@@ -19,12 +19,12 @@ Core 7:         +38.0°C  (high = +80.0°C, crit = +90.0°C)
 coretemp-isa-0001
 Adapter: ISA adapter
 Physical id 1:  +41.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 0:         +40.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 0:         +41.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 1:         +40.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 2:         +38.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 3:         +41.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 4:         +38.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 5:         +38.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 2:         +40.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 3:         +40.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 4:         +39.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 5:         +39.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 6:         +37.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 7:         +36.0°C  (high = +80.0°C, crit = +90.0°C)
 
@@ -37,11 +37,11 @@ Core 7:         +36.0°C  (high = +80.0°C, crit = +90.0°C)
 /dev/sdg: SEAGATE ST2000NX0463: 34°C
 /dev/sdh: SEAGATE ST2000NX0463: 33°C
 ================
-top - 15:46:05 up 74 days, 23:26,  6 users,  load average: 6.00, 6.00, 6.00
-Tasks: 482 total,   1 running, 481 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 34.1 us, 13.1 sy,  0.0 ni, 47.2 id,  5.1 wa,  0.0 hi,  0.6 si,  0.0 st
-KiB Mem : 13197828+total, 41345656 free,  1188436 used, 89444192 buff/cache
-KiB Swap: 13417267+total, 13375568+free,   416984 used. 12985512+avail Mem 
+top - 19:46:09 up 75 days,  3:26,  6 users,  load average: 6.00, 6.00, 6.00
+Tasks: 481 total,   1 running, 480 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.0 us, 13.0 sy,  0.0 ni, 47.3 id,  5.1 wa,  0.0 hi,  0.6 si,  0.0 st
+KiB Mem : 13197828+total, 41340844 free,  1189140 used, 89448304 buff/cache
+KiB Swap: 13417267+total, 13375577+free,   416892 used. 12985516+avail Mem 
 
 ----------------
-Tue Mar 24 15:46:05 EDT 2020
+Tue Mar 24 19:46:09 EDT 2020
