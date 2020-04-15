@@ -1,4 +1,4 @@
-Tue Apr 14 23:59:22 EDT 2020
+Wed Apr 15 03:59:28 EDT 2020
 ----------------
 Filesystem                   Size  Used Avail Use% Mounted on
 /dev/mapper/ubuntu--vg-root  791G  391G  360G  53% /
@@ -6,42 +6,42 @@ Filesystem                   Size  Used Avail Use% Mounted on
 ================
 coretemp-isa-0000
 Adapter: ISA adapter
-Physical id 0:  +74.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 0:         +71.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 1:         +74.0°C  (high = +80.0°C, crit = +90.0°C)
+Physical id 0:  +73.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 0:         +72.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 1:         +73.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 2:         +68.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 3:         +68.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 4:         +71.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 5:         +68.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 6:         +71.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 3:         +69.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 4:         +70.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 5:         +70.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 6:         +72.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 7:         +71.0°C  (high = +80.0°C, crit = +90.0°C)
 
 coretemp-isa-0001
 Adapter: ISA adapter
-Physical id 1:  +73.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 0:         +73.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 1:         +71.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 2:         +70.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 3:         +69.0°C  (high = +80.0°C, crit = +90.0°C)
-Core 4:         +69.0°C  (high = +80.0°C, crit = +90.0°C)
+Physical id 1:  +72.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 0:         +71.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 1:         +69.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 2:         +72.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 3:         +68.0°C  (high = +80.0°C, crit = +90.0°C)
+Core 4:         +70.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 5:         +69.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 6:         +71.0°C  (high = +80.0°C, crit = +90.0°C)
 Core 7:         +71.0°C  (high = +80.0°C, crit = +90.0°C)
 
-/dev/sda: SEAGATE ST91000640SS: 31°C
-/dev/sdb: SEAGATE ST2000NX0463: 34°C
-/dev/sdc: SEAGATE ST2000NX0463: 34°C
-/dev/sdd: SEAGATE ST2000NX0463: 35°C
-/dev/sde: SEAGATE ST2000NX0463: 35°C
-/dev/sdf: SEAGATE ST2000NX0463: 35°C
-/dev/sdg: SEAGATE ST2000NX0463: 34°C
-/dev/sdh: SEAGATE ST2000NX0463: 32°C
+/dev/sda: SEAGATE ST91000640SS: 33°C
+/dev/sdb: SEAGATE ST2000NX0463: 36°C
+/dev/sdc: SEAGATE ST2000NX0463: 37°C
+/dev/sdd: SEAGATE ST2000NX0463: 38°C
+/dev/sde: SEAGATE ST2000NX0463: 37°C
+/dev/sdf: SEAGATE ST2000NX0463: 37°C
+/dev/sdg: SEAGATE ST2000NX0463: 36°C
+/dev/sdh: SEAGATE ST2000NX0463: 33°C
 ================
-top - 23:59:23 up 96 days,  7:40, 12 users,  load average: 28.98, 29.51, 29.73
-Tasks: 506 total,  15 running, 491 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 33.3 us, 12.7 sy,  0.0 ni, 48.9 id,  4.6 wa,  0.0 hi,  0.6 si,  0.0 st
-KiB Mem : 13197828+total,  9251460 free,  1255984 used, 12147084+buff/cache
-KiB Swap: 13417267+total, 13355902+free,   613640 used. 12976462+avail Mem 
+top - 03:59:30 up 96 days, 11:40, 12 users,  load average: 25.88, 24.17, 23.66
+Tasks: 526 total,  15 running, 511 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.3 us, 12.7 sy,  0.0 ni, 48.8 id,  4.6 wa,  0.0 hi,  0.6 si,  0.0 st
+KiB Mem : 13197828+total,   574140 free,  1396644 used, 13000750+buff/cache
+KiB Swap: 13417267+total, 13355104+free,   621620 used. 12958880+avail Mem 
 
 ----------------
-Tue Apr 14 23:59:23 EDT 2020
+Wed Apr 15 03:59:30 EDT 2020
